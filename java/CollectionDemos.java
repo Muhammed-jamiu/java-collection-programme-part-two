@@ -10,7 +10,7 @@ public class CollectionDemos {
         Collections.addAll(collection, "a","b","c");
 //        var containA=collection.contains("a");
         Object[] objectArray= collection.toArray();
-        System.out.println(containA);
+//        System.out.println(containA);
 //        System.out.println(collection.size());
 //        collection.add("a");
 //        collection.add("b");
